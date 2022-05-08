@@ -4,5 +4,5 @@ build a Dyson Sphere, a mega-structure that completely covers a star and capture
 manufacture solar panels and carrier rockets
 
 how to use: run DSP.py  
-input: products and their quantity  
+input: product and its quantity  
 output: raw materials required for the products
