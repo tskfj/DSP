@@ -18,6 +18,7 @@ def input_order():
         item = 'small_carrier_rocket'
     else:
         print('input 1 or 2!')
+        return
 
     quantity = input('input quantity (1-1,000,000): ')
     quantity = int(quantity)
